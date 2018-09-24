@@ -16,7 +16,7 @@ class DetailViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        navigationItem.title = "Products List Page"
         tableView.rowHeight = UITableViewAutomaticDimension
     }
 

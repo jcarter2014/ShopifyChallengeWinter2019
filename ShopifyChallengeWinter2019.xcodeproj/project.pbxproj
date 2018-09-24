@@ -14,6 +14,8 @@
 		DEF4745C2148AA38006248D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEF4745A2148AA38006248D3 /* LaunchScreen.storyboard */; };
 		DEF4746421582B25006248D3 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF4746321582B25006248D3 /* DetailViewController.swift */; };
 		DEF474662158382B006248D3 /* DetailTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF474652158382B006248D3 /* DetailTableViewCell.swift */; };
+		DEF474682158F0AA006248D3 /* TagsList.png in Resources */ = {isa = PBXBuildFile; fileRef = DEF474672158F0AA006248D3 /* TagsList.png */; };
+		DEF4746A2158F0B6006248D3 /* ProductsList.png in Resources */ = {isa = PBXBuildFile; fileRef = DEF474692158F0B6006248D3 /* ProductsList.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		DEF4745D2148AA38006248D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DEF4746321582B25006248D3 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		DEF474652158382B006248D3 /* DetailTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailTableViewCell.swift; sourceTree = "<group>"; };
+		DEF474672158F0AA006248D3 /* TagsList.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TagsList.png; sourceTree = "<group>"; };
+		DEF474692158F0B6006248D3 /* ProductsList.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ProductsList.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				DEF474582148AA38006248D3 /* Assets.xcassets */,
 				DEF4745A2148AA38006248D3 /* LaunchScreen.storyboard */,
 				DEF4745D2148AA38006248D3 /* Info.plist */,
+				DEF474672158F0AA006248D3 /* TagsList.png */,
+				DEF474692158F0B6006248D3 /* ProductsList.png */,
 			);
 			path = ShopifyChallengeWinter2019;
 			sourceTree = "<group>";
@@ -131,7 +137,9 @@
 			files = (
 				DEF4745C2148AA38006248D3 /* LaunchScreen.storyboard in Resources */,
 				DEF474592148AA38006248D3 /* Assets.xcassets in Resources */,
+				DEF474682158F0AA006248D3 /* TagsList.png in Resources */,
 				DEF474572148AA38006248D3 /* Main.storyboard in Resources */,
+				DEF4746A2158F0B6006248D3 /* ProductsList.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
